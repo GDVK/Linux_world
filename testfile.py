@@ -1,7 +1,7 @@
 # load dataset
 
 import pandas 
-db=pandas.read_csv("salary.csv")
+db=pandas.read_csv("Salary_Data.csv")
 print("Dataset Loaded Sucessfully.")
 
 # Creating features and target.
