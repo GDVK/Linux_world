@@ -51,7 +51,7 @@ If Docker is installed, start and enable Docker services:
 systemctl start docker
 systemctl enable docker
 ```
-![docker start](docker-start.png)
+![docker start](start-docker.png)
 Check Docker status:
 
 ```bash
